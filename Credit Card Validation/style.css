@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+
+
+.container{
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    margin: 100px;
+    /* align-items: center;
+    text-align: center; */
+    margin-left: 100px;
+} 
+
+.img{
+    background-image: url(./image/atm\ card.jpg);
+    background-repeat: no-repeat;
+    /* margin: 50px; */
+    /* margin-top: 50px; */
+    
+
+}
